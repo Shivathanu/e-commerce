@@ -27,4 +27,4 @@ Production:
     - apt-get update -qy
     - apt-get install -y ruby-dev
     - gem install dpl
-    - dpl --provider=heroku --app=e-commerce-service --api-key=5b36f53f-5fd3-4d3b-b78a-3c1e9e4fd733
+    - dpl --provider=heroku --app=e-commerce-service --api-key=6e97d124-c4e8-4000-86d6-4c660a9c8eb9
